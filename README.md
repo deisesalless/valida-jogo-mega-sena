@@ -1,0 +1,1 @@
+# valida-jogo-mega-sena
